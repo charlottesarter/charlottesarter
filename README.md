@@ -24,6 +24,7 @@ I am in my 4th year, and I am currently an **exchange student in South Korea**, 
 > How to reach me?
 >
 > 📧 sarter.charlotte@gmail.com
+>
 > 📞 +33 7 81 97 04 66 *(Please use whatsapp as I am currently in South Korea)*
 
 ## Projects 👩‍💻
@@ -31,9 +32,9 @@ I am in my 4th year, and I am currently an **exchange student in South Korea**, 
 Here are some projects I realized during my university studies.
 
 | Name                         | Description       | Tech/tools        |
-| ---------------------------- | --------------------------------------------- | ---------------------------------------- |
+| -------------------------------- | --------------------------------------------- | ---------------------------------------- |
 | **Witch Hunt**            | Programming a card game called [WitchHunt](http://www.goodlittlegames.co.uk/games/09-witch-hunt.html) | UML modeling with Modelio, Development in Java with Eclipse, GUI with Java Swing |
-| **World Hapiness Report** | Study of a dataset about happiness in the world. Creation of graphs to better visualize the results of the study. | Use of the R language and the RMarkdown syntax with RStudio|
+| **World Hapiness Report** | Study of a dataset about happiness in the world. Creation of graphs to better visualize the results of the study. | R language and RMarkdown syntax with RStudio|
 
 ## Work Experience 🦾
 
