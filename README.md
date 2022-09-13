@@ -19,7 +19,7 @@ Hello to everyone 👋
 
 I'm **Charlotte Sarter**, a **20 years old** student in **engineering school** at the **University of Technology of Troyes** (UTT) in France. I study **computer science and information systems**, and I am particularly interested in innovation through software and data visualization.
 
-I am in my 4th year, and I am currently an **exchange student in South Korea**, at the Seoul National University of Science and Technology (SeoulTech).
+I am in my 4th year, and I am currently doing a **study semester abroad in South Korea**, at the Seoul National University of Science and Technology (SeoulTech).
 
 > How to reach me?
 >
@@ -32,7 +32,7 @@ I am in my 4th year, and I am currently an **exchange student in South Korea**, 
 Here are some projects I realized during my university studies.
 
 | Name                         | Description       | Tech/tools        |
-| -------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| -------------------------------- | --------------------------------------- | ---------------------------------------- |
 | **Witch Hunt**            | Programming a card game called [WitchHunt](http://www.goodlittlegames.co.uk/games/09-witch-hunt.html) | UML modeling with Modelio, Development in Java with Eclipse, GUI with Java Swing |
 | **World Hapiness Report** | Study of a dataset about happiness in the world. Creation of graphs to better visualize the results of the study. | R language and RMarkdown syntax with RStudio|
 
@@ -68,8 +68,8 @@ Here are some projects I realized during my university studies.
 
 ## Hobbies
 
-🏊‍♀️ Synchronised swimming
-🏐 Volleyball
-📹 Creation of videos and multimedia content
-💰 Treasurer of the sports association of my university 
-🗺️ Travelling around the world
+🏊‍♀️ Synchronised swimming  
+🏐 Volleyball  
+📹 Creation of videos and multimedia content  
+💰 Treasurer of the sports association of my university     
+🗺️ Travelling around the world  
