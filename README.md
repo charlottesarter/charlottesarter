@@ -68,8 +68,8 @@ Here are some projects I realized during my university studies.
 
 ## Hobbies
 
-🏊‍♀️ Synchronised swimming  
-🏐 Volleyball  
-📹 Creation of videos and multimedia content  
-💰 Treasurer of the sports association of my university     
-🗺️ Travelling around the world  
+🏊‍♀️ Synchronised swimming      
+🏐 Volleyball      
+📹 Creation of videos and multimedia content     
+💰 Treasurer of the sports association of my university         
+🗺️ Travelling around the world     
