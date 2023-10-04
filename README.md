@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 Hello to everyone 👋
 
-I'm **Charlotte Sarter**, a **20 years old** student in **engineering school** at the **University of Technology of Troyes** (UTT) in France. I study **computer science and information systems**, and I am particularly interested in innovation through software and data visualization.
+I'm **Charlotte Sarter**, a **21 years old** student in **engineering school** at the **University of Technology of Troyes** (UTT) in France. I study **computer science and information systems**, and I am particularly interested in data analysis and visualization.
 
-I am in my 4th year, and I am currently doing a **study semester abroad in South Korea**, at the Seoul National University of Science and Technology (SeoulTech).
+I am in my 5th (and last) year, and I am currently specializing in knowledge management.
 
 > How to reach me?
 >
 > 📧 sarter.charlotte@gmail.com
 >
-> 📞 +33 7 81 97 04 66 *(Please use whatsapp as I am currently in South Korea)*
+> 📞 +33 7 81 97 04 66
 
 ## Projects 👩‍💻
 
